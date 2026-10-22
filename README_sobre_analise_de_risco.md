@@ -1,0 +1,22 @@
+##Laboratório de Estudos: Lógica de Dados e Estatística com Python e SQL
+
+Este repositório foi criado para documentar meus estudos práticos na transição da Engenharia Mecatrônica para a área de Dados/Machine Learning. O objetivo aqui foi aplicar lógica de programação (Python/SQL) e conceitos de estatística básica em problemas práticos de mercado.
+
+---
+
+##Ferramentas que usei nos testes
+* **Python & Pandas:** Para limpar e transformar as tabelas.
+* **SQLite:** Para simular consultas de banco de dados direto na memória do Jupyter Notebook.
+
+---
+
+##O que eu resolvi nesses exercícios:
+
+###1. Análise de risco
+* **O problema:** Verificar quais e quantos são risco para crédito.
+* **Como resolvi:** Usei a relação renda anual e valor da parcela em simulação para definir o risco para conceder crédito, para isso a parcela mensal não pode comprometer mais de 30% da renda.
+
+###2. Limpeza de Ruído de Sinais
+* **O problema:** Fiz verificação de dados faltantes ou nulos, também havia problemas de formatação em nomes, mas não era foco nesse momento fazer esta correção.
+* **Como resolvi:** Usei Pandas para verificação.
+
